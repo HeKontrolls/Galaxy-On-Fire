@@ -1,0 +1,48 @@
+﻿  Main.cpp
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(231,21): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(233,21): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(342,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(345,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(356,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(372,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(423,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(430,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(432,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(435,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(476,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(480,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(499,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\Main.cpp(500,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GalaxyGame.vcxproj -> C:\Users\Jkewl\source\repos\GalaxyGame\Debug\GalaxyGame.exe

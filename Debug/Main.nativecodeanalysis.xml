@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>427</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'olc::Sprite::Mode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Sprite@olc@@QAE@XZ</DECORATED>
+    <FUNCLINE>730</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>765</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::LoadFromPGESprFile::&lt;lambda_bd263405a2b4a9f89789c5bc5a244888&gt;::()</FUNCTION>
+    <DECORATED>??R&lt;lambda_bd263405a2b4a9f89789c5bc5a244888&gt;@@QBEXAAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>766</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>765</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::LoadFromPGESprFile::&lt;lambda_bd263405a2b4a9f89789c5bc5a244888&gt;::()</FUNCTION>
+    <DECORATED>??R&lt;lambda_bd263405a2b4a9f89789c5bc5a244888&gt;@@QBEXAAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>766</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>777</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'olc::rcode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::LoadFromPGESprFile</FUNCTION>
+    <DECORATED>?LoadFromPGESprFile@Sprite@olc@@QAE?AW4rcode@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVResourcePack@2@@Z</DECORATED>
+    <FUNCLINE>756</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>803</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::SaveToPGESprFile</FUNCTION>
+    <DECORATED>?SaveToPGESprFile@Sprite@olc@@QAE?AW4rcode@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>793</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>803</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olc::Sprite::SaveToPGESprFile</FUNCTION>
+    <DECORATED>?SaveToPGESprFile@Sprite@olc@@QAE?AW4rcode@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>793</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>559</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'olc::Pixel::Mode' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>olc::PixelGameEngine::{ctor}</FUNCTION>
+    <DECORATED>??0PixelGameEngine@olc@@QAE@XZ</DECORATED>
+    <FUNCLINE>1172</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>olcPixelGameEngine.h</FILENAME>
+      <LINE>1286</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'olc::Key' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>olc::PixelGameEngine::GetKey</FUNCTION>
+    <DECORATED>?GetKey@PixelGameEngine@olc@@QAE?AUHWButton@2@W4Key@2@@Z</DECORATED>
+    <FUNCLINE>1286</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>469</LINE>
+      <COLUMN>80</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olcGalaxy::OnUserUpdate</FUNCTION>
+    <DECORATED>?OnUserUpdate@olcGalaxy@@UAE_NM@Z</DECORATED>
+    <FUNCLINE>259</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Jkewl\source\repos\GalaxyGame\GalaxyGame\</FILEPATH>
+      <FILENAME>Main.cpp</FILENAME>
+      <LINE>469</LINE>
+      <COLUMN>75</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>olcGalaxy::OnUserUpdate</FUNCTION>
+    <DECORATED>?OnUserUpdate@olcGalaxy@@UAE_NM@Z</DECORATED>
+    <FUNCLINE>259</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
